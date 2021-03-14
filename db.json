@@ -1,3 +1,19 @@
 {
-  "contacts": []
+  "contacts": [
+    {
+      "name": "Fiat doblo 2009",
+      "number": "00000",
+      "id": 1
+    },
+    {
+      "name": "Евгений Лысов",
+      "number": "050505",
+      "id": 2
+    },
+    {
+      "name": "Rosie Simpson",
+      "number": "050505",
+      "id": 3
+    }
+  ]
 }
